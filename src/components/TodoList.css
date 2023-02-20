@@ -1,0 +1,7 @@
+.todoItem{
+    cursor: pointer;
+}
+.todoComplete{
+    text-decoration: line-through;
+    cursor: pointer;
+}
